@@ -1,6 +1,36 @@
-# esameGabrielliVirgili
+# EsameGabrielliVirgili
+
 esame di programmazione ad oggetti di Lorenzo Gabrielli e Claudio Virgili
+
 # Introduzione
+
+Questa applicazione ci permette di  studiare le competizioni di Calcio dell'Italia, utilizzando le API del sito football-data. 
+L'applicazione permette all'utente finale di: 
+1)Visualizzare le informazioni relative ad una determinata competizione italiana. 
+2)Visualizzare delle statistiche generali calcolate su tutte le competizioni italiane disponibili.
+3)Visualizzare delle statistiche generali calcolate su una competizione scelta e sulle sue partite. 
+Inoltre, l'utente ha la possibilità di calcolare/filtrare le statistiche in base a dei filtri scelti dall'utente stesso.  
+
+STATISTICHE
+Statistiche generali: 
+1)Numero minimo.
+2)Massimo e medio di squadre totali.
+3)Durata media delle competizioni (in giorni/mesi).
+4)Quantità media di stagioni salvate per ogni competizione. 
+
+Statistiche in base alla competizione: 
+1)Quante volte l'esito del primo tempo di una partita è rimasto identico al finale.
+2)Quante volte l'esito del primo tempo è stato ribaltato rispetto al secondo tempo.
+3)Quante volte un'esito neutro è passato ad un esito diverso, e viceversa.
+4)Numero di arbitri diversi calcolati su tutte le partite della stagione.
+
+FILTRI
+1)Filtraggio statistiche generali in base al livello delle competizioni da studiare.
+2)Filtraggio delle statistiche sulle partite in base a: 
+              -Una lista di squadre su cui studiare le partite; 
+              -L'utilizzo di una o più stagioni disponibili; 
+              -Partite selezionate rispetto ad un range temporale all'interno di una stagione.  
+
 
 # Diagrammi UML
 Generale

@@ -1,0 +1,74 @@
+[ 
+	{
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France",
+                },
+                
+            "name": "Ligue 1",
+            
+            "currentSeason": {
+                "id": 596,
+                "startDate": "2020-08-22",
+                "endDate": "2021-05-23",
+                "currentMatchday": 38,
+                
+            },
+            "numberOfAvailableSeasons": 11,
+            
+
+     },
+
+    {
+            "id": 2002,
+            "area": {
+                "id": 2088,
+                "name": "Germany",
+                
+               
+            },
+            "name": "Bundesliga",
+            
+            "currentSeason": {
+                "id": 599,
+                "startDate": "2020-09-18",
+                "endDate": "2021-05-23",
+                "currentMatchday": 34,
+                "winner": {
+                    "id": 5,
+                    "name": "FC Bayern München",
+                    "tla": "FCB",
+                    
+                }
+            },
+            "numberOfAvailableSeasons": 25,
+            
+        },
+
+    {
+            "id": 2019,
+            "area": {
+                "id": 2114,
+                "name": "Italy",
+                
+                
+            },
+            "name": "Serie A",
+            "currentSeason": {
+                "id": 638,
+                "startDate": "2020-09-20",
+                "endDate": "2021-05-23",
+                "currentMatchday": 38,
+                "winner": {
+                    "id": 108,
+                    "name": "FC Internazionale Milano",
+                    "tla": "INT",
+                    
+                }
+            },
+            "numberOfAvailableSeasons": 17,
+           
+        },
+
+]
